@@ -1,0 +1,7 @@
+Employee ID:1
+Employee Name     :Madhu
+Father's Name     :Balu
+Employee Contact  :1234567891
+Email Information :abc@gmail.com
+Employee position :intern
+Employee Salary   :12000
